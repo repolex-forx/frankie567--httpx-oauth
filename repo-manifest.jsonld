@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/frankie567/httpx-oauth/commit/8570ab5bff5cf10c802abbcc9cb4f80de2510b16",
       "git:hexsha": "8570ab5bff5cf10c802abbcc9cb4f80de2510b16",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/frankie567/httpx-oauth/commit/21188133c042a4de69f5bf2b04fb8029c7a976a8",
